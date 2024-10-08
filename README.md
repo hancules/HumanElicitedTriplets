@@ -10,4 +10,4 @@ Information contained is:
 -  `kind` refers to whther `(target, relatum)` are all abstract or physical words.
 -  `prob` takes a real value, showing the elicitation frequency of the given triplet.
 -  `hapax` takes a binary value, showing whether the given triplet is elicited only once.
--  `min_distance`` is the length of the shortest path that connects `target` and `relatum` in WordNet hierarchy.
+-  `min_distance` is the length of the shortest path that connects `target` and `relatum` in WordNet hierarchy.
